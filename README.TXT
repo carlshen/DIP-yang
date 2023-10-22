@@ -3,6 +3,9 @@
 ========================================================================
 
 
+2023.10.22 Move to subdirectory for more chapters.
+
+
 AppWizard has created this DSplit application for you.  This application
 not only demonstrates the basics of using the Microsoft Foundation classes
 but is also a starting point for writing your application.
