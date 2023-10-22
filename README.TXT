@@ -3,7 +3,8 @@
 ========================================================================
 
 
-2023.10.22 Move to subdirectory for more chapters.
+2023.10.22 Add chapter 4 source code.
+2023.10.21 Move to subdirectory for more chapters.
 
 
 AppWizard has created this DSplit application for you.  This application
